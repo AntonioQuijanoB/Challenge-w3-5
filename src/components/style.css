@@ -1,0 +1,12 @@
+* {
+  box-sizing: border-box;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  background-color: aquamarine;
+}
+
+#poke-box {
+  display: flex;
+  flex-wrap: wrap;
+  position: absolute;
+  top: 10rem;
+}
